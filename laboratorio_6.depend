@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1701538079 source:c:\users\shins\desktop\laboratorio_6\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	"Persona.h"
+	"Cliente.h"
+	"Cajero.h"
+
+1701533624 source:c:\users\shins\desktop\laboratorio_6\persona.cpp
+	<iostream>
+	<stdio.h>
+	"Persona.h"
+
+1701527969 c:\users\shins\desktop\laboratorio_6\persona.h
+	<iostream>
+
+1701474584 source:c:\users\shins\desktop\laboratorio_6\acciones.cpp
+	<iostream>
+	<stdio.h>
+	"Acciones.h"
+
+1701391905 c:\users\shins\desktop\laboratorio_6\acciones.h
+
+1701536989 source:c:\users\shins\desktop\laboratorio_6\cliente.cpp
+	<iostream>
+	<stdio.h>
+	"Cliente.h"
+
+1701537137 c:\users\shins\desktop\laboratorio_6\cliente.h
+	<iostream>
+	"Persona.h"
+
+1701527121 source:c:\users\shins\desktop\laboratorio_6\cajero.cpp
+	<iostream>
+	"Cajero.h"
+
+1701454741 c:\users\shins\desktop\laboratorio_6\cajero.h
+	<iostream>
+	"Persona.h"
+
